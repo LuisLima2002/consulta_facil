@@ -1,0 +1,260 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>VozAmiga</name>
+    </assembly>
+    <members>
+        <member name="T:VozAmiga.Migrations.Intial">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.Intial.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.Intial.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.Intial.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:VozAmiga.Migrations.Update">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.Update.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.Update.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.Update.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:VozAmiga.Migrations.AddPeople">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.AddPeople.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.AddPeople.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.AddPeople.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:VozAmiga.Migrations.ChangeLoginFormat">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.ChangeLoginFormat.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.ChangeLoginFormat.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.ChangeLoginFormat.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:VozAmiga.Migrations.AddExercises">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.AddExercises.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.AddExercises.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.AddExercises.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:VozAmiga.Migrations.UpdateExercises">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.UpdateExercises.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.UpdateExercises.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.UpdateExercises.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:VozAmiga.Migrations.AddExerciseAssignment">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.AddExerciseAssignment.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.AddExerciseAssignment.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.AddExerciseAssignment.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:VozAmiga.Migrations.AddActivityAndExerciseAssignment">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.AddActivityAndExerciseAssignment.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.AddActivityAndExerciseAssignment.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.AddActivityAndExerciseAssignment.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:VozAmiga.Migrations.AddActivityAttempt">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.AddActivityAttempt.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.AddActivityAttempt.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.AddActivityAttempt.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:VozAmiga.Migrations.ChangeActivityAttempt">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.ChangeActivityAttempt.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.ChangeActivityAttempt.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.ChangeActivityAttempt.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:VozAmiga.Migrations.ChangeAssignedActivities">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.ChangeAssignedActivities.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.ChangeAssignedActivities.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.ChangeAssignedActivities.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:VozAmiga.Migrations.UpdateWhyNotWorking">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.UpdateWhyNotWorking.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.UpdateWhyNotWorking.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.UpdateWhyNotWorking.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:VozAmiga.Migrations.AddPatientStatus">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.AddPatientStatus.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.AddPatientStatus.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.AddPatientStatus.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:VozAmiga.Migrations.updateActivityAttempt">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.updateActivityAttempt.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.updateActivityAttempt.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.updateActivityAttempt.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:VozAmiga.Migrations.floatToIntActivityAttempt">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.floatToIntActivityAttempt.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.floatToIntActivityAttempt.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Migrations.floatToIntActivityAttempt.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Api.Controllers.ActivityController.Post(VozAmiga.Core.DTO.Commands.CreateActivityCmd)">
+             <summary>
+            
+             </summary>
+             <param name="activity"></param>
+             <returns></returns>
+        </member>
+        <member name="M:VozAmiga.Api.Controllers.ActivityController.GetMedia(System.String,System.Threading.CancellationToken)">
+             <summary>
+            
+             </summary>
+             <param name="activityId"></param>
+             <param name="cancellationToken"></param>
+             <returns>Returns a video stream</returns>
+             <response code="200" cref="T:Microsoft.AspNetCore.Mvc.FileStreamResult">The requested video stream</response>
+        </member>
+        <member name="M:VozAmiga.Api.Controllers.AssignController.GetExercise(System.String,System.Nullable{System.Boolean},System.String,System.String,System.Nullable{System.Int32},System.Nullable{System.Int32},System.Threading.CancellationToken)">
+             <summary>
+            
+             </summary>
+             <param name="patientId"></param>
+             <param name="assigned">
+                 if <code>null</code> bring all patients, when <code>true</code>,
+                 bring only the patients that has this exercise assigned,
+                 otherwise brings the
+             </param>
+             <param name="filter"></param>
+             <param name="orderBy"></param>
+             <param name="page"></param>
+             <param name="pageSize"></param>
+             <param name="cancellationToken"></param>
+             <returns></returns>
+        </member>
+        <member name="M:VozAmiga.Api.Controllers.AuthController.Login(VozAmiga.Core.DTO.Commands.SignInCmd,System.Threading.CancellationToken)">
+             <summary>
+            
+             </summary>
+             <param name="cmd"></param>
+             <param name="cancellationToken"></param>
+             <returns></returns>
+             <response code="200">When login and password are valids</response>
+             <response code="401">When login and password are invalids</response>
+        </member>
+        <member name="M:VozAmiga.Api.Controllers.ExercisesController.Post(VozAmiga.Core.DTO.Commands.CreateExerciseCmd,System.Threading.CancellationToken)">
+             <summary>
+            
+             </summary>
+             <param name="cmd"></param>
+             <param name="cancellationToken"></param>
+             <returns></returns>
+        </member>
+        <member name="M:VozAmiga.Api.Infra.Repositories.MediaRepository.GetByPathAsync(System.String,System.Threading.CancellationToken)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Api.Infra.Repositories.PatientRepository.FindByCodeAsync(System.String,System.Threading.CancellationToken)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Api.Infra.Repositories.PersonRepository.FindByEmail(System.String,System.Threading.CancellationToken)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Api.Infra.Repositories.ProfissionalRepository.FindByEmailAsyc(System.String,System.Threading.CancellationToken)">
+            <inheritdoc/>
+        </member>
+        <member name="M:VozAmiga.Api.Services.V1.Activities.GetMediaService.GetActivityMediaAsync(System.String,System.Threading.CancellationToken)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Api.Services.V1.CreatePatientService.HandleAsync(VozAmiga.Core.DTO.Commands.CreatePatientCmd,System.Threading.CancellationToken)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Api.Services.V1.CreateProfissionalService.HandleAsync(VozAmiga.Core.DTO.Commands.CreateProfissionalCmd,System.Threading.CancellationToken)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

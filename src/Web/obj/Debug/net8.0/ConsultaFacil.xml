@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ConsultaFacil</name>
+    </assembly>
+    <members>
+        <member name="T:ConsultaFacil.Migrations.initial">
+            <inheritdoc />
+        </member>
+        <member name="M:ConsultaFacil.Migrations.initial.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ConsultaFacil.Migrations.initial.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ConsultaFacil.Migrations.initial.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Api.Controllers.AuthController.Login(VozAmiga.Core.DTO.Commands.SignInCmd,System.Threading.CancellationToken)">
+             <summary>
+            
+             </summary>
+             <param name="cmd"></param>
+             <param name="cancellationToken"></param>
+             <returns></returns>
+             <response code="200">When login and password are valids</response>
+             <response code="401">When login and password are invalids</response>
+        </member>
+        <member name="M:VozAmiga.Api.Infra.Repositories.ProfissionalRepository.FindByUserNameAsync(System.String,System.Threading.CancellationToken)">
+            <inheritdoc/>
+        </member>
+        <member name="M:VozAmiga.Api.Services.V1.CreatePatientService.HandleAsync(VozAmiga.Core.DTO.Commands.CreatePatientCmd,System.Threading.CancellationToken)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Api.Services.V1.CreateProfissionalService.HandleAsync(VozAmiga.Core.DTO.Commands.CreateProfissionalCmd,System.Threading.CancellationToken)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

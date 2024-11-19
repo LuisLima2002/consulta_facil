@@ -1,0 +1,13 @@
+C:\Users\luise\Documents\dev\vozamiga\src\Core\bin\Debug\net8.0\VozAmiga.Core.deps.json
+C:\Users\luise\Documents\dev\vozamiga\src\Core\bin\Debug\net8.0\VozAmiga.Core.dll
+C:\Users\luise\Documents\dev\vozamiga\src\Core\bin\Debug\net8.0\VozAmiga.Core.pdb
+C:\Users\luise\Documents\dev\vozamiga\src\Core\obj\Debug\net8.0\VozAmiga.Core.csproj.AssemblyReference.cache
+C:\Users\luise\Documents\dev\vozamiga\src\Core\obj\Debug\net8.0\VozAmiga.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luise\Documents\dev\vozamiga\src\Core\obj\Debug\net8.0\VozAmiga.Core.AssemblyInfoInputs.cache
+C:\Users\luise\Documents\dev\vozamiga\src\Core\obj\Debug\net8.0\VozAmiga.Core.AssemblyInfo.cs
+C:\Users\luise\Documents\dev\vozamiga\src\Core\obj\Debug\net8.0\VozAmiga.Core.csproj.CoreCompileInputs.cache
+C:\Users\luise\Documents\dev\vozamiga\src\Core\obj\Debug\net8.0\VozAmiga.Core.sourcelink.json
+C:\Users\luise\Documents\dev\vozamiga\src\Core\obj\Debug\net8.0\VozAmiga.Core.dll
+C:\Users\luise\Documents\dev\vozamiga\src\Core\obj\Debug\net8.0\refint\VozAmiga.Core.dll
+C:\Users\luise\Documents\dev\vozamiga\src\Core\obj\Debug\net8.0\VozAmiga.Core.pdb
+C:\Users\luise\Documents\dev\vozamiga\src\Core\obj\Debug\net8.0\ref\VozAmiga.Core.dll

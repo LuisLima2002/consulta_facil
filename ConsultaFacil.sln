@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsultaFacil", "src\Web\ConsultaFacil.csproj", "{780882A1-ACC5-4BB1-B6CD-15DAAE8E03BE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsultaFacil.Core", "src\Core\ConsultaFacil.Core.csproj", "{7314B763-74FA-4206-8059-B6D10DFF0C60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{780882A1-ACC5-4BB1-B6CD-15DAAE8E03BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{780882A1-ACC5-4BB1-B6CD-15DAAE8E03BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{780882A1-ACC5-4BB1-B6CD-15DAAE8E03BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{780882A1-ACC5-4BB1-B6CD-15DAAE8E03BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7314B763-74FA-4206-8059-B6D10DFF0C60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7314B763-74FA-4206-8059-B6D10DFF0C60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7314B763-74FA-4206-8059-B6D10DFF0C60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7314B763-74FA-4206-8059-B6D10DFF0C60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FF02E6B-FB25-4A9D-9684-0D17C58F15CC}
+	EndGlobalSection
+EndGlobal

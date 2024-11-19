@@ -1,0 +1,13 @@
+C:\Users\luise\Documents\dev\consulta_facil\src\Core\bin\Debug\net8.0\ConsultaFacil.Core.deps.json
+C:\Users\luise\Documents\dev\consulta_facil\src\Core\bin\Debug\net8.0\ConsultaFacil.Core.dll
+C:\Users\luise\Documents\dev\consulta_facil\src\Core\bin\Debug\net8.0\ConsultaFacil.Core.pdb
+C:\Users\luise\Documents\dev\consulta_facil\src\Core\obj\Debug\net8.0\ConsultaFacil.Core.csproj.AssemblyReference.cache
+C:\Users\luise\Documents\dev\consulta_facil\src\Core\obj\Debug\net8.0\ConsultaFacil.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luise\Documents\dev\consulta_facil\src\Core\obj\Debug\net8.0\ConsultaFacil.Core.AssemblyInfoInputs.cache
+C:\Users\luise\Documents\dev\consulta_facil\src\Core\obj\Debug\net8.0\ConsultaFacil.Core.AssemblyInfo.cs
+C:\Users\luise\Documents\dev\consulta_facil\src\Core\obj\Debug\net8.0\ConsultaFacil.Core.csproj.CoreCompileInputs.cache
+C:\Users\luise\Documents\dev\consulta_facil\src\Core\obj\Debug\net8.0\ConsultaFacil.Core.sourcelink.json
+C:\Users\luise\Documents\dev\consulta_facil\src\Core\obj\Debug\net8.0\ConsultaFacil.Core.dll
+C:\Users\luise\Documents\dev\consulta_facil\src\Core\obj\Debug\net8.0\refint\ConsultaFacil.Core.dll
+C:\Users\luise\Documents\dev\consulta_facil\src\Core\obj\Debug\net8.0\ConsultaFacil.Core.pdb
+C:\Users\luise\Documents\dev\consulta_facil\src\Core\obj\Debug\net8.0\ref\ConsultaFacil.Core.dll
