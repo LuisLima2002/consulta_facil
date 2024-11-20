@@ -12,6 +12,7 @@ public class Profissional
     public required string Name { get; set; }
     public required string UserName { get; set; }
     public required string Password { get; set; }
+    public required string Phone { get; set; }
     public required string JobPosition { get; set; }
     public required string Permission { get; set; }
     public string? Salt { get; set; }

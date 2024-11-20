@@ -16,6 +16,18 @@
         <member name="M:ConsultaFacil.Migrations.initial.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
             <inheritdoc />
         </member>
+        <member name="T:ConsultaFacil.Migrations.updateProfessional">
+            <inheritdoc />
+        </member>
+        <member name="M:ConsultaFacil.Migrations.updateProfessional.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ConsultaFacil.Migrations.updateProfessional.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ConsultaFacil.Migrations.updateProfessional.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
         <member name="M:VozAmiga.Api.Controllers.AuthController.Login(VozAmiga.Core.DTO.Commands.SignInCmd,System.Threading.CancellationToken)">
              <summary>
             

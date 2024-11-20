@@ -68,6 +68,7 @@ public class CreateProfissionalService : ICreateProfissionalService
             UserName = cmd.UserName,
             JobPosition = cmd.JobPosition,
             Permission = cmd.Permission,
+            Phone = cmd.Phone,
             Password = pwdHash,
             Salt = salt,
         };
@@ -87,6 +88,9 @@ public class CreateProfissionalService : ICreateProfissionalService
                 var profissional = await _repository.FindByIdAsyc(id);
                 profissional!.Name = profissionalQR.Name;
                 profissional.UserName = profissionalQR.UserName;
+                profissional.JobPosition = profissionalQR.JobPosition;
+                profissional.Permission = profissionalQR.Permission;
+                profissional.Phone = profissionalQR.Phone;
                 _repository.Update(profissional);
                 await _unityOfWork.SaveChangesAsync(cancellationToken);
                 return Result.Success;

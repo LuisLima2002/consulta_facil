@@ -81,7 +81,8 @@ public class QueryProfissionalService : IQueryProfissionalService
             Name = profissional.Name,
             UserName = profissional.UserName,
             JobPosition = profissional.JobPosition,
-            Permission = profissional.Permission
+            Permission = profissional.Permission,
+            Phone = profissional.Phone,
         };
 
         return res;

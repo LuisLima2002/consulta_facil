@@ -45,7 +45,7 @@ public class ProfissionalRepository : BaseRepository<Profissional>, IProfissiona
         return _context
             .Set<Profissional>()
             .AsNoTracking()
-            .Where(a => a.Name.ToLower().Contains(queryFor != null ? queryFor.ToLower() : ""));
+            .Where(a => (a.Name + a.JobPosition+a.UserName+a.Permission).ToLower().Contains(queryFor != null ? queryFor.ToLower() : ""));
     }
 
     public Task<Profissional?> FindByIdAsyc(Guid id, CancellationToken cancellationToken = default)

@@ -28,6 +28,9 @@ public class ProfissionalEntityMap : IEntityTypeConfiguration<Profissional>
         builder.Property(a => a.UserName)
          .IsRequired();
 
+        builder.Property(a => a.Phone)
+ .IsRequired();
+
 
 
     }
