@@ -19,7 +19,8 @@ public class AppDbContext : DbContext, IDbContext
     {
         builder
             .ApplyConfiguration(new ProfissionalEntityMap())
-            .ApplyConfiguration(new PatientEntityMap());
+            .ApplyConfiguration(new PatientEntityMap())
+            .ApplyConfiguration(new ScheduleEntityMap());
 
     }
 
@@ -30,4 +31,5 @@ public class AppDbContext : DbContext, IDbContext
 
     public DbSet<Profissional> Profissionals { get; set;}
     public DbSet<Patient> Patients { get; set;}
+    public DbSet<Schedule> Schedules { get; set; }
 }

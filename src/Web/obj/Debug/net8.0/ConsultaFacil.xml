@@ -28,6 +28,54 @@
         <member name="M:ConsultaFacil.Migrations.updateProfessional.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
             <inheritdoc />
         </member>
+        <member name="T:ConsultaFacil.Migrations.createSchedule">
+            <inheritdoc />
+        </member>
+        <member name="M:ConsultaFacil.Migrations.createSchedule.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ConsultaFacil.Migrations.createSchedule.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ConsultaFacil.Migrations.createSchedule.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:ConsultaFacil.Migrations.createSchedule1">
+            <inheritdoc />
+        </member>
+        <member name="M:ConsultaFacil.Migrations.createSchedule1.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ConsultaFacil.Migrations.createSchedule1.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ConsultaFacil.Migrations.createSchedule1.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:ConsultaFacil.Migrations.createSchedule2">
+            <inheritdoc />
+        </member>
+        <member name="M:ConsultaFacil.Migrations.createSchedule2.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ConsultaFacil.Migrations.createSchedule2.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ConsultaFacil.Migrations.createSchedule2.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:ConsultaFacil.Migrations.updateSchedule">
+            <inheritdoc />
+        </member>
+        <member name="M:ConsultaFacil.Migrations.updateSchedule.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ConsultaFacil.Migrations.updateSchedule.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ConsultaFacil.Migrations.updateSchedule.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
         <member name="M:VozAmiga.Api.Controllers.AuthController.Login(VozAmiga.Core.DTO.Commands.SignInCmd,System.Threading.CancellationToken)">
              <summary>
             
@@ -45,6 +93,9 @@
             <inheritdoc />
         </member>
         <member name="M:VozAmiga.Api.Services.V1.CreateProfissionalService.HandleAsync(VozAmiga.Core.DTO.Commands.CreateProfissionalCmd,System.Threading.CancellationToken)">
+            <inheritdoc />
+        </member>
+        <member name="M:VozAmiga.Api.Services.V1.CreateScheduleService.HandleAsync(VozAmiga.Core.DTO.Commands.CreateScheduleCmd,System.Threading.CancellationToken)">
             <inheritdoc />
         </member>
     </members>

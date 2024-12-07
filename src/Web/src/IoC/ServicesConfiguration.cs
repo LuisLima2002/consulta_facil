@@ -105,8 +105,10 @@ public static class ServicesConfiguration
     {
         services.AddScoped<ICreatePatientService, CreatePatientService>();
         services.AddScoped<ICreateProfissionalService, CreateProfissionalService>();
+        services.AddScoped<ICreateScheduleService, CreateScheduleService>();
         services.AddScoped<IQueryPatientService, QueryPatientService>();
         services.AddScoped<IQueryProfissionalService, QueryProfissionalService>();
+        services.AddScoped<IQueryScheduleService, QueryScheduleService>();
         services.AddScoped<IPasswordService, PasswordService>();
         services.AddScoped<IAuthService, AuthService>();
         // TODO: criar interface, se sobrar tempo
@@ -123,6 +125,7 @@ public static class ServicesConfiguration
         services.AddScoped<IUnityOfWork, UnityOfWork>();
         services.AddScoped<IPatientRepository, PatientRepository>();
         services.AddScoped<IProfissionalRepository, ProfissionalRepository>();
+        services.AddScoped<IScheduleRepository, ScheduleRepository>();
 
         return services;
     }
